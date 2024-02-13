@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Katherine\\Desktop\\SW\\Práctica\\WS.ApplicationServer\\WS.ApplicationServices.csproj",
+      "projectUniqueName": "C:\\Users\\Katherine\\Desktop\\SW\\Práctica\\WS.ApplicationServices\\WS.ApplicationServices.csproj",
       "projectName": "WS.ApplicationServices",
-      "projectPath": "C:\\Users\\Katherine\\Desktop\\SW\\Práctica\\WS.ApplicationServer\\WS.ApplicationServices.csproj",
+      "projectPath": "C:\\Users\\Katherine\\Desktop\\SW\\Práctica\\WS.ApplicationServices\\WS.ApplicationServices.csproj",
       "packagesPath": "C:\\Users\\Katherine\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Katherine\\Desktop\\SW\\Práctica\\WS.ApplicationServer\\obj\\",
+      "outputPath": "C:\\Users\\Katherine\\Desktop\\SW\\Práctica\\WS.ApplicationServices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Katherine\\AppData\\Roaming\\NuGet\\NuGet.Config",
